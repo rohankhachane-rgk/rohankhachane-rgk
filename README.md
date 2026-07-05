@@ -99,7 +99,7 @@ An intelligent healthcare application that assists in early cancer risk predicti
 ### 🤖 AI Assistant for Restaurant Management System
 **Python • Machine Learning • Artificial Intelligence • Data Analytics**
 
-An AI-powered assistant designed to streamline restaurant operations by automating customer interactions, order management, reservations, and workflow optimization. The system enhances operational efficiency through intelligent automation and data-driven insights. :contentReference[oaicite:0]{index=0}
+An AI-powered assistant designed to streamline restaurant operations by automating customer interactions, order management, reservations, and workflow optimization. The system enhances operational efficiency through intelligent automation and data-driven insights.
 
 🔗 Repository: https://github.com/rohankhachane-rgk/AI-Assistant-for-Restaurent-Management-System
 
@@ -126,7 +126,7 @@ A personalized movie recommendation engine that analyzes user preferences and re
 ### 🛠️ Rohan Tools Hub
 **HTML • CSS • JavaScript • Node.js**
 
-A modern multi-tool web application offering utilities such as QR Code Generation, Image Compression, Background Removal, and a responsive light/dark interface for enhanced productivity. :contentReference[oaicite:1]{index=1}
+A modern multi-tool web application offering utilities such as QR Code Generation, Image Compression, Background Removal, and a responsive light/dark interface for enhanced productivity.
 
 🔗 Repository: https://github.com/rohankhachane-rgk/Rohan-Tools-Hub
 
@@ -172,3 +172,6 @@ An interactive Power BI dashboard that provides comprehensive insights into sale
 💼 Open to internships, full-time opportunities, and collaborations.
 
 ⭐ Thanks for visiting my profile!
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,20:2563EB,50:06B6D4,80:7C3AED,100:EC4899"/>
+</p>
