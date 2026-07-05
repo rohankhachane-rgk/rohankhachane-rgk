@@ -11,7 +11,7 @@ Computer Engineering Graduate | Software Developer | Full Stack Web Developer | 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Data+Analyst+%7C+Power+BI;Cloud+Computing+Enthusiast;Open+to+Entry+Level+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=06B6D4&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Data+Analyst+%7C+Power+BI;Cloud+Computing+Enthusiast;Open+to+Entry+Level+Opportunities" />
 </p>
 
 
