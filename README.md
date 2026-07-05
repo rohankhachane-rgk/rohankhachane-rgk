@@ -1,6 +1,7 @@
-<!-- Banner -->
+<!-- ===================== Banner ===================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Rohan%20Khachane&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,20:2563EB,50:06B6D4,80:7C3AED,100:EC4899&text=Rohan%20Khachane&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc"/>
 </p>
 
 # <h1 align="center">Hi 👋, I'm Rohan Khachane</h1>
@@ -10,7 +11,7 @@ Computer Engineering Graduate | Software Developer | Full Stack Web Developer | 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Data+Analyst+%7C+Power+BI;Cloud+Computing+Enthusiast;Open+to+Software+Developer+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Data+Analyst+%7C+Power+BI;Cloud+Computing+Enthusiast;Open+to+Entry+Level+Opportunities" />
 </p>
 
 
