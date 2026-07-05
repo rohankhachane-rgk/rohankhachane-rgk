@@ -148,19 +148,25 @@ An interactive Power BI dashboard that provides comprehensive insights into sale
 
 ---
 
-# 📜 Certifications
+## 🏅 Certifications
 
-🏅 Google Cloud Data Analytics
-
-🏅 Oracle Certified Foundations Associate
-
-🏅 Artificial Intelligence Primer
-
-🏅 Introduction to Deep Learning
-
-🏅 Android App Development
-
-🏅 Data Science & Analytics
+- 🤖 **Artificial Intelligence Primer Certification** – Infosys Springboard
+- 👁️ **Computer Vision 101** – Infosys Springboard
+- 📊 **Data Science & Analytics** – HP LIFE
+- 🧠 **Generative Models for Developers** – Infosys Springboard
+- 🤖 **Introduction to Artificial Intelligence** – Infosys Springboard
+- 📈 **Introduction to Data Science** – Infosys Springboard
+- 🧠 **Introduction to Deep Learning** – Infosys Springboard
+- 💬 **Introduction to Natural Language Processing** – Infosys Springboard
+- ✨ **Principles of Generative AI** – Infosys Springboard
+- 🍃 **Building AI Apps with MongoDB on AWS** – MongoDB
+- 🐘 **PHP and SQL** – Spoken Tutorial, IIT Bombay
+- 📱 **Android App Development** – Spoken Tutorial, IIT Bombay
+- 🤖 **Microsoft AI Classroom Series** – Microsoft
+- 🏆 **Oracle Certified Foundations Associate** – Oracle
+- 🤖 **Introduction to Robotics and AI** (Webinar) – PEL Robotics
+- 🐍 **Python Course** – Udemy
+- ☁️ **Google Cloud Data Analytics** – Google Cloud Skills Boost
 
 ---
 
