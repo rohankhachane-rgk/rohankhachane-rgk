@@ -1,7 +1,7 @@
 <!-- ===================== Banner ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,20:2563EB,50:06B6D4,80:7C3AED,100:EC4899&text=Rohan%20Khachane&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,20:2563EB,50:06B6D4,80:7C3AED,100:EC4899&text=Rohan%20Khachane&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=%20Welcome%20to%20my%20GitHub%🚀&descAlignY=58&descSize=24&descAlign=50"/>
 </p>
 
 # <h1 align="center">Hi 👋, I'm Rohan Khachane</h1>
