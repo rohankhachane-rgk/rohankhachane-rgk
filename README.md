@@ -168,3 +168,6 @@ An interactive Power BI dashboard that provides comprehensive insights into sale
 💼 Open to internships, full-time opportunities, and collaborations.
 
 ⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+</p>
