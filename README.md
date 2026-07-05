@@ -136,6 +136,16 @@ A responsive personal portfolio showcasing my projects, technical skills, certif
 
 🔗 Repository: https://github.com/rohankhachane-rgk/Rohan_Khachane_Portfolio
 
+---
+### 📊 Sales Performance Analytics Dashboard
+**Power BI • Data Analytics • Business Intelligence • Data Visualization**
+
+An interactive Power BI dashboard that provides comprehensive insights into sales performance through KPIs, revenue analysis, profit trends, regional performance, and dynamic visualizations. Designed to support data-driven business decision-making.
+
+🔗 Repository: https://github.com/rohankhachane-rgk/Sales-Performance-Analytics-Dashboard-PowerBI
+
+---
+
 # 📜 Certifications
 
 🏅 Google Cloud Data Analytics
