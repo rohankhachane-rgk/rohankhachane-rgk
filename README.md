@@ -169,6 +169,8 @@ An interactive Power BI dashboard that provides comprehensive insights into sale
 💼 Open to internships, full-time opportunities, and collaborations.
 
 ⭐ Thanks for visiting my profile!
+<!-- ===================== Footer ===================== -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,20:2563EB,50:06B6D4,80:7C3AED,100:EC4899"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,20:3B82F6,40:6366F1,60:A855F7,80:EC4899,100:F43F5E"/>
 </p>
