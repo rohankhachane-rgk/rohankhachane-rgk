@@ -1,16 +1,159 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Rohan%20Khachane&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**rohankhachane-rgk/rohankhachane-rgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <h1 align="center">Hi 👋, I'm Rohan Khachane</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Computer Engineering Graduate | Software Developer | Full Stack Web Developer | Data Analyst | Cloud Computing Enthusiast | Java | Python | SQL | React | Power BI | Open to Entry-Level Opportunities
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Data+Analyst+%7C+Power+BI;Cloud+Computing+Enthusiast;Open+to+Software+Developer+Opportunities" />
+</p>
+
+
+## 🚀 About Me
+
+🎓 Computer Engineering Graduate
+
+💻 Passionate about Software Development, AI and Data Analytics
+
+🌱 Currently Learning
+
+- Advanced Machine Learning
+- MERN Stack
+- Cloud Technologies
+- Data Engineering
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rohan-khachane-36a2b8240"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/rohankhachane-rgk"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://rohan-khachane-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle"/>
+<img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### ☁️ Cloud & Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,azure" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode,androidstudio" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🩺 OncoAssist – AI-Powered Cancer Prediction
+**Python • Machine Learning • Data Science**
+
+An intelligent healthcare application that assists in early cancer risk prediction using machine learning algorithms. The system performs data preprocessing, feature engineering, model training, and predictive analysis to support informed healthcare decisions.
+
+🔗 Repository: https://github.com/rohankhachane-rgk/OncoAssist
+
+---
+
+### 🤖 AI Assistant for Restaurant Management System
+**Python • Machine Learning • Artificial Intelligence • Data Analytics**
+
+An AI-powered assistant designed to streamline restaurant operations by automating customer interactions, order management, reservations, and workflow optimization. The system enhances operational efficiency through intelligent automation and data-driven insights. :contentReference[oaicite:0]{index=0}
+
+🔗 Repository: https://github.com/rohankhachane-rgk/AI-Assistant-for-Restaurent-Management-System
+
+---
+
+### 🏭 Smart Warehouse Management System
+**Python • Machine Learning • Automation • Data Analytics**
+
+A smart warehouse management solution focused on inventory optimization, intelligent stock monitoring, and operational efficiency using automation and data-driven decision-making.
+
+🔗 Repository: https://github.com/rohankhachane-rgk/Smart-Warehouse-Management-System
+
+---
+
+### 🎬 AI Movie Recommendation System
+**Python • Machine Learning • Recommendation System**
+
+A personalized movie recommendation engine that analyzes user preferences and recommends relevant movies using machine learning techniques, improving user engagement through intelligent recommendations.
+
+🔗 Repository: https://github.com/rohankhachane-rgk/AI-Movie-Recommendation-System
+
+---
+
+### 🛠️ Rohan Tools Hub
+**HTML • CSS • JavaScript • Node.js**
+
+A modern multi-tool web application offering utilities such as QR Code Generation, Image Compression, Background Removal, and a responsive light/dark interface for enhanced productivity. :contentReference[oaicite:1]{index=1}
+
+🔗 Repository: https://github.com/rohankhachane-rgk/Rohan-Tools-Hub
+
+---
+
+### 🌐 Personal Portfolio Website
+**React • JavaScript • HTML • CSS**
+
+A responsive personal portfolio showcasing my projects, technical skills, certifications, resume, and achievements with a modern user interface and smooth navigation.
+
+🌐 Live Demo: https://rohan-khachane-portfolio.vercel.app/
+
+🔗 Repository: https://github.com/rohankhachane-rgk/Rohan_Khachane_Portfolio
+
+# 📜 Certifications
+
+🏅 Google Cloud Data Analytics
+
+🏅 Oracle Certified Foundations Associate
+
+🏅 Artificial Intelligence Primer
+
+🏅 Introduction to Deep Learning
+
+🏅 Android App Development
+
+🏅 Data Science & Analytics
+
+---
+
+## 🤝 Let's Connect
+
+💼 Open to internships, full-time opportunities, and collaborations.
+
+⭐ Thanks for visiting my profile!
