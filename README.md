@@ -1,7 +1,7 @@
 <!-- ===================== Banner ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:06B6D4,20:3B82F6,40:6366F1,60:A855F7,80:EC4899,100:F43F5E&text=Hey%20There,%20I'm%20Rohan%20Khachane&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=%20Welcome%20To%20My%20GitHub%20Profile%🚀&descAlignY=58&descSize=35&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:38BDF8,25:3B82F6,50:8B5CF6,75:EC4899,100:F97316&text=Hey%20There,%20I'm%20Rohan%20Khachane&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=🚀%20Welcome%20To%20My%20GitHub%20Profile&descAlignY=58&descSize=35&descAlign=50"/>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
