@@ -1,10 +1,14 @@
 <!-- ===================== Banner ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,20:2563EB,50:06B6D4,80:7C3AED,100:EC4899&text=Rohan%20Khachane&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=%20Welcome%20to%20my%20GitHub%🚀&descAlignY=58&descSize=24&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,20:2563EB,50:06B6D4,80:7C3AED,100:EC4899&text=Rohan%20Khachane&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=%20Welcome%20To%20My%20GitHub%20Profile%🚀&descAlignY=58&descSize=24&descAlign=50"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-# <h1 align="center">Hi 👋, I'm Rohan Khachane</h1>
+
+# <h1 align="center">Hey 👋, I'm Rohan Khachane</h1>
 
 <h3 align="center">
 Computer Engineering Graduate | Software Developer | Full Stack Web Developer | Data Analyst | Cloud Computing Enthusiast | Java | Python | SQL | React | Power BI | Open to Entry-Level Opportunities
@@ -168,6 +172,3 @@ An interactive Power BI dashboard that provides comprehensive insights into sale
 💼 Open to internships, full-time opportunities, and collaborations.
 
 ⭐ Thanks for visiting my profile!
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-</p>
