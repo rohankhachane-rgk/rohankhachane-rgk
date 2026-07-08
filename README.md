@@ -102,6 +102,16 @@ An AI-powered assistant designed to streamline restaurant operations by automati
 
 ---
 
+### 🤖 SmartAttend-AI
+
+**React • Node.js • Express • MySQL • Groq API**
+
+An AI-powered Employee Attendance and Leave Management System featuring secure authentication, attendance tracking, leave management, role-based access control, an interactive dashboard, and an intelligent chatbot for attendance and leave queries.
+
+🔗 Repository: https://github.com/rohankhachane-rgk/SmartAttend-AI
+
+------
+
 ### 🏭 Smart Warehouse Management System
 **Python • Machine Learning • Automation • Data Analytics**
 
